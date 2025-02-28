@@ -10,3 +10,6 @@
 [submodule "microservice.gateway"]
 	path = microservice.gateway
 	url = D:\\PROGRAMING\\01.PROYECTOS\\1.BackEnd_GastosDiarios\\DailyExpenses-Microservices\\microservice.gateway
+[submodule "microservice.accounts"]
+	path = microservice.accounts
+	url = D:\\PROGRAMING\\01.PROYECTOS\\1.BackEnd_GastosDiarios\\DailyExpenses-Microservices\\microservice.accounts
