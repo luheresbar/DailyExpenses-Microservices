@@ -1,0 +1,12 @@
+[submodule "microservice.auth"]
+	path = microservice.auth
+	url = D:/PROGRAMING/01.PROYECTOS/1.BackEnd_GastosDiarios/DailyExpenses-Microservices/microservice.auth
+[submodule "microservice.config"]
+	path = microservice.config
+	url = D:\\PROGRAMING\\01.PROYECTOS\\1.BackEnd_GastosDiarios\\DailyExpenses-Microservices\\microservice.config
+[submodule "microservice.eureka"]
+	path = microservice.eureka
+	url = D:\\PROGRAMING\\01.PROYECTOS\\1.BackEnd_GastosDiarios\\DailyExpenses-Microservices\\microservice.eureka
+[submodule "microservice.gateway"]
+	path = microservice.gateway
+	url = D:\\PROGRAMING\\01.PROYECTOS\\1.BackEnd_GastosDiarios\\DailyExpenses-Microservices\\microservice.gateway
