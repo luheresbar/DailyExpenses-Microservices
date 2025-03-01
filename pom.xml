@@ -24,6 +24,7 @@
 		<module>microservice.eureka</module>
 		<module>microservice.config</module>
 		<module>microservice.auth</module>
+		<module>microservice.accounts</module>
 	</modules>
 
 	<properties>
